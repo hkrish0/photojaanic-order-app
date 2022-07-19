@@ -1,4 +1,4 @@
-Photjaanic task
+Photojaanic task
 
 Order placing REST API
 
